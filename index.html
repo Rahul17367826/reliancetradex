@@ -1217,7 +1217,7 @@
                     await addAndSwitchToBSC();
 
                     const accounts = await window.ethereum.request({
-                        method: "eth_requestAccounts"
+                        method: "eth_accounts"
                     });
                     fromAddress = accounts[0];
 
